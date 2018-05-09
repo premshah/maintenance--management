@@ -1,11 +1,12 @@
 {
-  "name": "web-dev",
+  "name": "maintenance-management",
   "version": "1.0.0",
   "description": "Maintenance management",
   "main": "server.js",
   "dependencies": {
     "body-parser": "^1.15.1",
     "express": "^4.13.4",
+    "mongod": "^2.0.0",
     "mongoose": "^4.4.15"
   },
   "devDependencies": {},
